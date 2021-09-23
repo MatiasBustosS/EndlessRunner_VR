@@ -660,3 +660,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.23-19.57.15:940][221]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.23-19.57.15:940][221]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.09.23-19.57.15:940][221]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.23-19.58.03:385][597]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2021.09.23-19.58.04:093][675]Cmd: TRANSACTION UNDO
+[2021.09.23-19.58.04:093][675]LogEditorTransaction: Undo Clicking on Actors
+[2021.09.23-19.58.14:649][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.23-19.58.16:998][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.09.23-19.58.17:093][162]LogSavePackage: Moving 'D:/Archivos_Unreal/MyProjectAndroid/Saved/ThirdPersonExampleMap98B460984AD330A29437E89E9471BC12.tmp' to 'D:/Archivos_Unreal/MyProjectAndroid/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.23-19.58.17:190][162]LogSavePackage: Moving 'D:/Archivos_Unreal/MyProjectAndroid/Saved/ThirdPersonExampleMap_BuiltDataB772672744554D53506982B240515808.tmp' to 'D:/Archivos_Unreal/MyProjectAndroid/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.23-19.58.17:198][162]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.23-19.58.17:198][162]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.23-19.58.17:198][162]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.23-19.58.19:020][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.09.23-19.58.19:149][373]LogSavePackage: Moving 'D:/Archivos_Unreal/MyProjectAndroid/Saved/ThirdPersonExampleMapB944039A4E321D0B645122A17C119B87.tmp' to 'D:/Archivos_Unreal/MyProjectAndroid/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.23-19.58.19:242][373]LogSavePackage: Moving 'D:/Archivos_Unreal/MyProjectAndroid/Saved/ThirdPersonExampleMap_BuiltData852FEFEC4DCF6A0B440CE9B680069BAC.tmp' to 'D:/Archivos_Unreal/MyProjectAndroid/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.23-19.58.19:250][373]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.23-19.58.19:250][373]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.23-19.58.19:250][373]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.23-19.58.19:660][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.23-19.58.19:791][419]LogSavePackage: Moving 'D:/Archivos_Unreal/MyProjectAndroid/Saved/ThirdPersonExampleMap4F50FD8B48FF1B5C098814A367466AE6.tmp' to 'D:/Archivos_Unreal/MyProjectAndroid/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.23-19.58.19:885][419]LogSavePackage: Moving 'D:/Archivos_Unreal/MyProjectAndroid/Saved/ThirdPersonExampleMap_BuiltData9616A28641736FC58083268D6BEC55DB.tmp' to 'D:/Archivos_Unreal/MyProjectAndroid/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.23-19.58.19:892][419]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.23-19.58.19:892][419]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.23-19.58.19:892][419]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.23-19.58.20:012][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.09.23-19.58.20:134][430]LogSavePackage: Moving 'D:/Archivos_Unreal/MyProjectAndroid/Saved/ThirdPersonExampleMap536E18964F839C8BFC01C3A7413B2052.tmp' to 'D:/Archivos_Unreal/MyProjectAndroid/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.23-19.58.20:229][430]LogSavePackage: Moving 'D:/Archivos_Unreal/MyProjectAndroid/Saved/ThirdPersonExampleMap_BuiltDataAC6D56674BDD293039C448BF25B89052.tmp' to 'D:/Archivos_Unreal/MyProjectAndroid/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.23-19.58.20:236][430]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.23-19.58.20:236][430]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.23-19.58.20:236][430]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.23-19.58.20:415][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.09.23-19.58.20:555][449]LogSavePackage: Moving 'D:/Archivos_Unreal/MyProjectAndroid/Saved/ThirdPersonExampleMapB1F64010407846BA5FD7FBB2F8B480C7.tmp' to 'D:/Archivos_Unreal/MyProjectAndroid/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.23-19.58.20:648][449]LogSavePackage: Moving 'D:/Archivos_Unreal/MyProjectAndroid/Saved/ThirdPersonExampleMap_BuiltData8ABB8F2343B45ECCF54FA18E2230F07F.tmp' to 'D:/Archivos_Unreal/MyProjectAndroid/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.23-19.58.20:659][449]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.23-19.58.20:659][449]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.23-19.58.20:659][449]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData

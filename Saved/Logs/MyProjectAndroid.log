@@ -702,3 +702,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.23-19.59.17:932][985]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.23-19.59.17:932][985]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.09.23-19.59.17:932][985]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.23-20.08.39:984][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.23-20.08.40:510][205]LogSavePackage: Moving 'D:/Archivos_Unreal/MyProjectAndroid/Saved/ThirdPersonExampleMap3F6B868547546C4F307F5187F979C531.tmp' to 'D:/Archivos_Unreal/MyProjectAndroid/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.23-20.08.40:627][205]LogSavePackage: Moving 'D:/Archivos_Unreal/MyProjectAndroid/Saved/ThirdPersonExampleMap_BuiltData8A204E2C454BFA5F5ADBBCB2F304530B.tmp' to 'D:/Archivos_Unreal/MyProjectAndroid/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.23-20.08.40:636][205]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.23-20.08.40:636][205]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.23-20.08.40:636][205]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
